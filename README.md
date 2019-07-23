@@ -1,1 +1,2 @@
-# AppleScript-Network-Drive-Utility
+# AppleScript Network Drive Utility
+This utility was creat
