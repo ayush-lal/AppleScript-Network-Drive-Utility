@@ -1,1 +1,1 @@
-Tell Application
+display notification "G Drive Successfully Mounted" with title "Drive Utility"
