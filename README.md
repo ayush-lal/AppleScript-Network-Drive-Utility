@@ -16,8 +16,10 @@ end if
 ## Application Preview
 
 *Username Prompt*
+![UsernamePrompt]
 
 *Password Prompt*
+
 
 *Notification Banner*
 ![Notification Banner](/images/notification_banner.png)

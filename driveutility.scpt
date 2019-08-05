@@ -4,11 +4,11 @@
 ------------------------------------------------------------------------------------
 
 -- Diaglog box to gather user's domain username
-set username to (display dialog "Please enter your school username:" default answer "")
+set username to (display dialog "Please enter your username:" default answer "")
 set user to the text returned of username
 
 -- Dialog box to gather user's password in a secure string
-set userpass to display dialog "Please enter your school password:" default answer "" with hidden answer
+set userpass to display dialog "Please enter your password:" default answer "" with hidden answer
 set pass to the text returned of userpass
 
 -- Begin logic for mounting network drives
