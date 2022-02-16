@@ -1,4 +1,4 @@
-# AppleScript Network Drive Utility
+# AppleScript Network Drive Mapper
 This utility was created for users to be able to mount network drives from their MacOS devices with input prompts that will appear asking for credidentials. 
 
 This is a very simple solution for users to connect to network drives via SMB connections. 
